@@ -1,0 +1,24 @@
+{
+  "name": "working-with-net-in-node-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16",
+    "satelize": "^0.2.0"
+  },
+  "devDependencies": {
+    "mongoose": "^6.3.5"
+  }
+}
